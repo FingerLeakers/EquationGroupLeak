@@ -1,5 +1,10 @@
 # Equation Group Leak
 
+
+## (ATTENTION SOME OF THE TOOLS OF THE SAHDOWBROKERS LEAK CONTAINS A NSA VIRUS THAT YOU NEED TO TRACE THE HACKERS AROUND THE WORLD... USE ONLY IN A  OFFLINE DEMILITARIZED SYSTEM!!!)
+
+READ HERE: https://thehackernews.com/2018/03/nsa-hackers-tracking.html
+
 Archive of leaked [Equation Group](https://en.wikipedia.org/wiki/Equation_Group) materials, released by a group calling themselves "Shadow Brokers" - they are seeking to sell additional material, which is a violation of Github terms, and led to the Github repository they created being disabled. As such, none of the communication from the leaking group is hosted here, and will not be included.
 
 Per [an article](https://motherboard.vice.com/read/why-github-removed-links-to-alleged-nsa-data) that quotes Kate Guarente, a Github employee:
