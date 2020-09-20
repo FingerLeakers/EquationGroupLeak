@@ -20,3 +20,7 @@ While the source of this material is in question, it's value to the information 
 ## Isn't this material widely available now?
 
 Yes, it is. There are many places that you can download the original archive - there is no chance that this data is just going to disappear, but providing it here is easier for me, and likely easier for other security researchers.
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
